@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+fancyboi999-bot!;AI+Engineer+%7C+Agents+%26+RAG;Building+smarter+agents" alt="Typing animation" />
+</div>
 
-<!--
-**fancyboi999-bot/fancyboi999-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI Engineer**  
+Building smarter agents, breaking dumb limits.  
+Focused on **AI / Agents / RAG**.  
+📧 **fancyboi999@gmail.com**  
+🧠 **WeChat: fancyboi999**
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,nodejs,react,nextjs,ts,tailwind,html,css,postgres,redis,mongodb,git,docker,linux" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fancyboi999-bot&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+</div>
+
+## 💡 What I'm Up To
+
+- 🔭 Building **agentic systems** and **RAG pipelines**
+- 🌱 Exploring **tool use, memory, and orchestration**
+- 💬 Ask me about **LLM agents, RAG, or AI workflows**
+- 📫 Reach out: **fancyboi999@gmail.com**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fancyboi999-bot/fancyboi999-bot/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fancyboi999-bot/fancyboi999-bot/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/fancyboi999-bot/fancyboi999-bot/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
